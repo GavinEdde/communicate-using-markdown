@@ -10,3 +10,6 @@
 $ git init
 Initialized line of markdown code
 ```
+- [ ] Turn on Github Pages
+- [X] This item is accomplished
+- [ ] This item is not accomplished
